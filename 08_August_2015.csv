@@ -1,0 +1,759 @@
+Attempts
+Date,Attempted
+2015-08-01,114
+2015-08-02,108
+2015-08-03,92
+2015-08-04,69
+2015-08-05,68
+2015-08-06,104
+2015-08-07,116
+2015-08-08,52
+2015-08-09,69
+2015-08-10,55
+2015-08-11,90
+2015-08-12,55
+2015-08-13,33
+2015-08-14,78
+2015-08-15,68
+2015-08-16,65
+2015-08-17,71
+2015-08-18,66
+2015-08-19,32
+2015-08-20,52
+2015-08-21,72
+2015-08-22,91
+2015-08-23,41
+2015-08-24,38
+2015-08-25,32
+2015-08-26,74
+2015-08-27,34
+2015-08-28,25
+2015-08-29,23
+2015-08-30,36
+2015-08-31,36
+
+climbing routes
+Date,Route,Attempted,Succeeded,Success Percentage
+2015-08-31,Disappointment Cleaver,12,0,0.0
+2015-08-31,Disappointment Cleaver,12,0,0.0
+2015-08-31,Disappointment Cleaver,12,0,0.0
+2015-08-30,Disappointment Cleaver,12,0,0.0
+2015-08-30,Disappointment Cleaver,12,0,0.0
+2015-08-30,Disappointment Cleaver,12,0,0.0
+2015-08-29,Disappointment Cleaver,12,0,0.0
+2015-08-29,Disappointment Cleaver,11,0,0.0
+2015-08-28,Disappointment Cleaver,11,0,0.0
+2015-08-28,Disappointment Cleaver,11,0,0.0
+2015-08-28,Disappointment Cleaver,3,0,0.0
+2015-08-27,Disappointment Cleaver,12,0,0.0
+2015-08-27,Disappointment Cleaver,12,0,0.0
+2015-08-27,Disappointment Cleaver,10,0,0.0
+2015-08-26,Disappointment Cleaver,12,7,0.583333333
+2015-08-26,Disappointment Cleaver,3,3,1.0
+2015-08-26,Disappointment Cleaver,2,2,1.0
+2015-08-26,Disappointment Cleaver,6,6,1.0
+2015-08-26,Disappointment Cleaver,9,3,0.333333333
+2015-08-26,Disappointment Cleaver,9,5,0.5555555560000001
+2015-08-26,Disappointment Cleaver,12,0,0.0
+2015-08-26,Emmons-Winthrop,2,1,0.5
+2015-08-26,Disappointment Cleaver,3,4,1.333333333
+2015-08-26,Disappointment Cleaver,2,2,1.0
+2015-08-26,Disappointment Cleaver,12,0,0.0
+2015-08-26,Disappointment Cleaver,2,0,0.0
+2015-08-25,Disappointment Cleaver,2,2,1.0
+2015-08-25,Disappointment Cleaver,6,0,0.0
+2015-08-25,Disappointment Cleaver,12,4,0.333333333
+2015-08-25,Disappointment Cleaver,12,7,0.583333333
+2015-08-24,Disappointment Cleaver,2,2,1.0
+2015-08-24,Disappointment Cleaver,10,7,0.7
+2015-08-24,Disappointment Cleaver,11,9,0.818181818
+2015-08-24,Disappointment Cleaver,3,3,1.0
+2015-08-24,Disappointment Cleaver,12,9,0.75
+2015-08-23,Disappointment Cleaver,5,0,0.0
+2015-08-23,Disappointment Cleaver,12,9,0.75
+2015-08-23,Disappointment Cleaver,12,4,0.333333333
+2015-08-23,Disappointment Cleaver,6,4,0.666666667
+2015-08-23,Disappointment Cleaver,4,4,1.0
+2015-08-23,Disappointment Cleaver,2,2,1.0
+2015-08-22,Disappointment Cleaver,4,4,1.0
+2015-08-22,Disappointment Cleaver,2,0,0.0
+2015-08-22,Disappointment Cleaver,2,0,0.0
+2015-08-22,Kautz Glacier,3,0,0.0
+2015-08-22,Disappointment Cleaver,4,4,1.0
+2015-08-22,Disappointment Cleaver,1,0,0.0
+2015-08-22,Disappointment Cleaver,3,3,1.0
+2015-08-22,Disappointment Cleaver,2,0,0.0
+2015-08-22,Disappointment Cleaver,4,4,1.0
+2015-08-22,Disappointment Cleaver,2,2,1.0
+2015-08-22,Emmons-Winthrop,4,0,0.0
+2015-08-22,Disappointment Cleaver,2,2,1.0
+2015-08-22,Disappointment Cleaver,12,0,0.0
+2015-08-22,Disappointment Cleaver,9,7,0.7777777779999999
+2015-08-22,Disappointment Cleaver,9,7,0.7777777779999999
+2015-08-22,Disappointment Cleaver,3,3,1.0
+2015-08-22,Disappointment Cleaver,3,2,0.666666667
+2015-08-22,Disappointment Cleaver,3,0,0.0
+2015-08-22,Disappointment Cleaver,1,1,1.0
+2015-08-22,Disappointment Cleaver,2,2,1.0
+2015-08-22,Disappointment Cleaver,12,0,0.0
+2015-08-22,Disappointment Cleaver,2,2,1.0
+2015-08-22,Disappointment Cleaver,2,0,0.0
+2015-08-21,Disappointment Cleaver,2,2,1.0
+2015-08-21,Emmons-Winthrop,5,0,0.0
+2015-08-21,Kautz Glacier,4,4,1.0
+2015-08-21,Emmons-Winthrop,4,4,1.0
+2015-08-21,Disappointment Cleaver,2,0,0.0
+2015-08-21,Disappointment Cleaver,12,2,0.166666667
+2015-08-21,Disappointment Cleaver,11,7,0.636363636
+2015-08-21,Disappointment Cleaver,4,0,0.0
+2015-08-21,Disappointment Cleaver,2,2,1.0
+2015-08-21,Disappointment Cleaver,2,0,0.0
+2015-08-21,Disappointment Cleaver,4,3,0.75
+2015-08-21,Disappointment Cleaver,2,2,1.0
+2015-08-21,Disappointment Cleaver,7,7,1.0
+2015-08-21,Disappointment Cleaver,4,4,1.0
+2015-08-21,Disappointment Cleaver,4,4,1.0
+2015-08-21,Disappointment Cleaver,2,0,0.0
+2015-08-21,Disappointment Cleaver,1,2,2.0
+2015-08-20,Disappointment Cleaver,5,0,0.0
+2015-08-20,Disappointment Cleaver,6,6,1.0
+2015-08-20,Disappointment Cleaver,2,2,1.0
+2015-08-20,Disappointment Cleaver,2,0,0.0
+2015-08-20,Disappointment Cleaver,11,6,0.545454545
+2015-08-20,Disappointment Cleaver,12,9,0.75
+2015-08-20,Disappointment Cleaver,2,0,0.0
+2015-08-20,Disappointment Cleaver,12,11,0.916666667
+2015-08-19,Disappointment Cleaver,2,0,0.0
+2015-08-19,glacier only - no summit attempt,2,2,1.0
+2015-08-19,Disappointment Cleaver,12,5,0.41666666700000005
+2015-08-19,Disappointment Cleaver,11,4,0.363636364
+2015-08-19,Disappointment Cleaver,3,3,1.0
+2015-08-19,Emmons-Winthrop,2,0,0.0
+2015-08-18,Disappointment Cleaver,2,0,0.0
+2015-08-18,Disappointment Cleaver,12,7,0.583333333
+2015-08-18,Disappointment Cleaver,12,10,0.833333333
+2015-08-18,Disappointment Cleaver,12,7,0.583333333
+2015-08-18,Emmons-Winthrop,11,0,0.0
+2015-08-18,Disappointment Cleaver,12,0,0.0
+2015-08-18,Disappointment Cleaver,5,4,0.8
+2015-08-17,Kautz Glacier,2,2,1.0
+2015-08-17,Disappointment Cleaver,1,0,0.0
+2015-08-17,Disappointment Cleaver,2,2,1.0
+2015-08-17,Disappointment Cleaver,12,0,0.0
+2015-08-17,Disappointment Cleaver,12,5,0.41666666700000005
+2015-08-17,Disappointment Cleaver,3,0,0.0
+2015-08-17,Disappointment Cleaver,12,6,0.5
+2015-08-17,Disappointment Cleaver,12,4,0.333333333
+2015-08-17,Disappointment Cleaver,3,0,0.0
+2015-08-17,Disappointment Cleaver,2,2,1.0
+2015-08-17,Emmons-Winthrop,9,9,1.0
+2015-08-17,Emmons-Winthrop,1,0,0.0
+2015-08-16,Disappointment Cleaver,3,0,0.0
+2015-08-16,Disappointment Cleaver,3,0,0.0
+2015-08-16,Disappointment Cleaver,2,0,0.0
+2015-08-16,Emmons-Winthrop,12,0,0.0
+2015-08-16,Disappointment Cleaver,2,2,1.0
+2015-08-16,Disappointment Cleaver,2,2,1.0
+2015-08-16,Disappointment Cleaver,3,0,0.0
+2015-08-16,Disappointment Cleaver,2,0,0.0
+2015-08-16,Disappointment Cleaver,12,12,1.0
+2015-08-16,Emmons-Winthrop,12,0,0.0
+2015-08-16,Disappointment Cleaver,12,9,0.75
+2015-08-15,Disappointment Cleaver,4,0,0.0
+2015-08-15,Disappointment Cleaver,2,2,1.0
+2015-08-15,Disappointment Cleaver,12,6,0.5
+2015-08-15,Disappointment Cleaver,12,11,0.916666667
+2015-08-15,Disappointment Cleaver,12,9,0.75
+2015-08-15,Emmons-Winthrop,3,0,0.0
+2015-08-15,Little Tahoma,2,2,1.0
+2015-08-15,Emmons-Winthrop,4,4,1.0
+2015-08-15,Emmons-Winthrop,5,0,0.0
+2015-08-15,Disappointment Cleaver,2,2,1.0
+2015-08-15,Disappointment Cleaver,3,0,0.0
+2015-08-15,Disappointment Cleaver,2,0,0.0
+2015-08-15,Disappointment Cleaver,1,1,1.0
+2015-08-15,Disappointment Cleaver,2,2,1.0
+2015-08-15,Disappointment Cleaver,2,2,1.0
+2015-08-14,Disappointment Cleaver,2,0,0.0
+2015-08-14,Disappointment Cleaver,4,4,1.0
+2015-08-14,Disappointment Cleaver,10,10,1.0
+2015-08-14,Disappointment Cleaver,4,0,0.0
+2015-08-14,Disappointment Cleaver,2,0,0.0
+2015-08-14,Disappointment Cleaver,2,0,0.0
+2015-08-14,Disappointment Cleaver,5,2,0.4
+2015-08-14,Disappointment Cleaver,3,0,0.0
+2015-08-14,Disappointment Cleaver,2,0,0.0
+2015-08-14,Disappointment Cleaver,3,0,0.0
+2015-08-14,Disappointment Cleaver,2,0,0.0
+2015-08-14,Disappointment Cleaver,8,0,0.0
+2015-08-14,Disappointment Cleaver,8,0,0.0
+2015-08-14,Disappointment Cleaver,11,0,0.0
+2015-08-14,Disappointment Cleaver,12,0,0.0
+2015-08-13,Disappointment Cleaver,12,9,0.75
+2015-08-13,Disappointment Cleaver,10,9,0.9
+2015-08-13,Disappointment Cleaver,4,0,0.0
+2015-08-13,Disappointment Cleaver,7,0,0.0
+2015-08-12,Disappointment Cleaver,2,2,1.0
+2015-08-12,Emmons-Winthrop,4,0,0.0
+2015-08-12,Disappointment Cleaver,2,2,1.0
+2015-08-12,Emmons-Winthrop,2,2,1.0
+2015-08-12,Disappointment Cleaver,11,6,0.545454545
+2015-08-12,Disappointment Cleaver,11,7,0.636363636
+2015-08-12,Disappointment Cleaver,9,0,0.0
+2015-08-12,Disappointment Cleaver,3,3,1.0
+2015-08-12,Disappointment Cleaver,2,2,1.0
+2015-08-12,Disappointment Cleaver,6,0,0.0
+2015-08-12,Kautz Glacier,3,0,0.0
+2015-08-11,Disappointment Cleaver,3,3,1.0
+2015-08-11,Disappointment Cleaver,2,0,0.0
+2015-08-11,Disappointment Cleaver,4,4,1.0
+2015-08-11,Disappointment Cleaver,2,0,0.0
+2015-08-11,Disappointment Cleaver,12,0,0.0
+2015-08-11,Emmons-Winthrop,12,0,0.0
+2015-08-11,Disappointment Cleaver,12,0,0.0
+2015-08-11,Disappointment Cleaver,12,0,0.0
+2015-08-11,Disappointment Cleaver,2,2,1.0
+2015-08-11,Kautz Glacier,10,0,0.0
+2015-08-11,Disappointment Cleaver,12,10,0.833333333
+2015-08-11,Disappointment Cleaver,2,2,1.0
+2015-08-11,Disappointment Cleaver,5,0,0.0
+2015-08-10,Disappointment Cleaver,2,0,0.0
+2015-08-10,Disappointment Cleaver,3,0,0.0
+2015-08-10,Emmons-Winthrop,12,8,0.666666667
+2015-08-10,Disappointment Cleaver,12,0,0.0
+2015-08-10,Disappointment Cleaver,12,9,0.75
+2015-08-10,Disappointment Cleaver,12,0,0.0
+2015-08-10,Disappointment Cleaver,2,0,0.0
+2015-08-09,Emmons-Winthrop,12,7,0.583333333
+2015-08-09,Emmons-Winthrop,12,12,1.0
+2015-08-09,Disappointment Cleaver,3,1,0.333333333
+2015-08-09,Disappointment Cleaver,4,4,1.0
+2015-08-09,Disappointment Cleaver,4,0,0.0
+2015-08-09,Disappointment Cleaver,12,10,0.833333333
+2015-08-09,Disappointment Cleaver,12,10,0.833333333
+2015-08-09,Kautz Glacier,10,0,0.0
+2015-08-08,Disappointment Cleaver,3,0,0.0
+2015-08-08,Emmons-Winthrop,1,0,0.0
+2015-08-08,Disappointment Cleaver,2,0,0.0
+2015-08-08,Disappointment Cleaver,12,12,1.0
+2015-08-08,Disappointment Cleaver,12,10,0.833333333
+2015-08-08,Disappointment Cleaver,12,2,0.166666667
+2015-08-08,Disappointment Cleaver,2,0,0.0
+2015-08-08,Disappointment Cleaver,3,0,0.0
+2015-08-08,Disappointment Cleaver,3,0,0.0
+2015-08-08,Disappointment Cleaver,2,0,0.0
+2015-08-07,Disappointment Cleaver,5,0,0.0
+2015-08-07,Disappointment Cleaver,3,3,1.0
+2015-08-07,Disappointment Cleaver,2,0,0.0
+2015-08-07,Disappointment Cleaver,2,0,0.0
+2015-08-07,Disappointment Cleaver,4,0,0.0
+2015-08-07,Disappointment Cleaver,2,0,0.0
+2015-08-07,Disappointment Cleaver,4,0,0.0
+2015-08-07,Disappointment Cleaver,2,2,1.0
+2015-08-07,Disappointment Cleaver,8,8,1.0
+2015-08-07,Disappointment Cleaver,11,8,0.727272727
+2015-08-07,Disappointment Cleaver,1,1,1.0
+2015-08-07,Disappointment Cleaver,12,9,0.75
+2015-08-07,Disappointment Cleaver,12,6,0.5
+2015-08-07,Disappointment Cleaver,12,6,0.5
+2015-08-07,Disappointment Cleaver,12,10,0.833333333
+2015-08-07,Disappointment Cleaver,12,12,1.0
+2015-08-07,Disappointment Cleaver,1,0,0.0
+2015-08-07,Disappointment Cleaver,11,7,0.636363636
+2015-08-06,Disappointment Cleaver,8,8,1.0
+2015-08-06,Disappointment Cleaver,3,3,1.0
+2015-08-06,Emmons-Winthrop,4,0,0.0
+2015-08-06,Emmons-Winthrop,3,0,0.0
+2015-08-06,Disappointment Cleaver,2,0,0.0
+2015-08-06,Disappointment Cleaver,2,0,0.0
+2015-08-06,Disappointment Cleaver,6,4,0.666666667
+2015-08-06,Disappointment Cleaver,3,3,1.0
+2015-08-06,Disappointment Cleaver,4,0,0.0
+2015-08-06,Disappointment Cleaver,2,0,0.0
+2015-08-06,Disappointment Cleaver,2,0,0.0
+2015-08-06,Disappointment Cleaver,3,0,0.0
+2015-08-06,Disappointment Cleaver,12,0,0.0
+2015-08-06,Disappointment Cleaver,12,6,0.5
+2015-08-06,Disappointment Cleaver,12,9,0.75
+2015-08-06,Kautz Glacier,2,2,1.0
+2015-08-06,Disappointment Cleaver,4,0,0.0
+2015-08-06,Disappointment Cleaver,3,3,1.0
+2015-08-06,Disappointment Cleaver,11,8,0.727272727
+2015-08-06,Disappointment Cleaver,3,0,0.0
+2015-08-06,Disappointment Cleaver,2,2,1.0
+2015-08-06,Disappointment Cleaver,1,0,0.0
+2015-08-05,Disappointment Cleaver,6,0,0.0
+2015-08-05,Disappointment Cleaver,2,0,0.0
+2015-08-05,Disappointment Cleaver,3,3,1.0
+2015-08-05,Emmons-Winthrop,2,0,0.0
+2015-08-05,Disappointment Cleaver,2,2,1.0
+2015-08-05,Disappointment Cleaver,5,0,0.0
+2015-08-05,Disappointment Cleaver,8,0,0.0
+2015-08-05,Disappointment Cleaver,11,4,0.363636364
+2015-08-05,Disappointment Cleaver,11,6,0.545454545
+2015-08-05,Disappointment Cleaver,11,10,0.9090909090000001
+2015-08-05,Disappointment Cleaver,2,2,1.0
+2015-08-05,Disappointment Cleaver,3,0,0.0
+2015-08-05,Disappointment Cleaver,2,0,0.0
+2015-08-04,Disappointment Cleaver,2,0,0.0
+2015-08-04,Emmons-Winthrop,2,2,1.0
+2015-08-04,Emmons-Winthrop,12,10,0.833333333
+2015-08-04,Disappointment Cleaver,12,8,0.666666667
+2015-08-04,Disappointment Cleaver,12,12,1.0
+2015-08-04,Disappointment Cleaver,12,12,1.0
+2015-08-04,Kautz Glacier,10,6,0.6
+2015-08-04,Disappointment Cleaver,2,2,1.0
+2015-08-04,Disappointment Cleaver,2,0,0.0
+2015-08-04,Disappointment Cleaver,3,0,0.0
+2015-08-03,Disappointment Cleaver,8,0,0.0
+2015-08-03,Disappointment Cleaver,5,4,0.8
+2015-08-03,Disappointment Cleaver,2,0,0.0
+2015-08-03,Disappointment Cleaver,3,0,0.0
+2015-08-03,Disappointment Cleaver,2,0,0.0
+2015-08-03,Disappointment Cleaver,8,8,1.0
+2015-08-03,Disappointment Cleaver,12,11,0.916666667
+2015-08-03,Emmons-Winthrop,12,5,0.41666666700000005
+2015-08-03,Disappointment Cleaver,12,9,0.75
+2015-08-03,Disappointment Cleaver,3,3,1.0
+2015-08-03,Disappointment Cleaver,3,3,1.0
+2015-08-03,Disappointment Cleaver,5,0,0.0
+2015-08-03,Disappointment Cleaver,5,0,0.0
+2015-08-03,Emmons-Winthrop,12,0,0.0
+2015-08-02,Emmons-Winthrop,11,7,0.636363636
+2015-08-02,Disappointment Cleaver,12,10,0.833333333
+2015-08-02,Disappointment Cleaver,3,0,0.0
+2015-08-02,Disappointment Cleaver,7,7,1.0
+2015-08-02,Disappointment Cleaver,8,0,0.0
+2015-08-02,Disappointment Cleaver,8,7,0.875
+2015-08-02,Disappointment Cleaver,12,7,0.583333333
+2015-08-02,Kautz Glacier,12,0,0.0
+2015-08-02,Disappointment Cleaver,1,0,0.0
+2015-08-02,Disappointment Cleaver,2,0,0.0
+2015-08-02,Kautz Glacier,3,0,0.0
+2015-08-02,Disappointment Cleaver,2,2,1.0
+2015-08-02,Disappointment Cleaver,2,0,0.0
+2015-08-02,Disappointment Cleaver,3,0,0.0
+2015-08-02,Disappointment Cleaver,7,7,1.0
+2015-08-02,Emmons-Winthrop,3,3,1.0
+2015-08-02,Disappointment Cleaver,9,6,0.666666667
+2015-08-02,Disappointment Cleaver,3,3,1.0
+2015-08-01,Disappointment Cleaver,9,8,0.8888888890000001
+2015-08-01,Disappointment Cleaver,3,0,0.0
+2015-08-01,Disappointment Cleaver,2,2,1.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,7,4,0.571428571
+2015-08-01,Disappointment Cleaver,5,0,0.0
+2015-08-01,Disappointment Cleaver,2,2,1.0
+2015-08-01,Disappointment Cleaver,3,0,0.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,3,2,0.666666667
+2015-08-01,Disappointment Cleaver,2,2,1.0
+2015-08-01,Disappointment Cleaver,3,0,0.0
+2015-08-01,Kautz Glacier,3,0,0.0
+2015-08-01,Emmons-Winthrop,3,0,0.0
+2015-08-01,Emmons-Winthrop,10,10,1.0
+2015-08-01,Disappointment Cleaver,12,7,0.583333333
+2015-08-01,Disappointment Cleaver,9,6,0.666666667
+2015-08-01,Disappointment Cleaver,10,7,0.7
+2015-08-01,Kautz Glacier,2,0,0.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,2,2,1.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,2,2,1.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,3,3,1.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Emmons-Winthrop,3,3,1.0
+2015-08-01,Disappointment Cleaver,2,0,0.0
+2015-08-01,Disappointment Cleaver,2,2,1.0
+
+Weatherlog 2015831
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,36,0,0.0
+
+Totals
+,Battery Voltage AVG,13.16
+,Temperature AVG,32.31
+,Relative Humidity AVG,100.0
+,Wind Speed Daily AVG,25.74
+,Wind Direction AVG,234.5
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015829
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,23,0,0.0
+
+Totals
+,Battery Voltage AVG,13.2026087
+,Temperature AVG,30.81956522
+,Relative Humidity AVG,96.96086957
+,Wind Speed Daily AVG,18.22691304
+,Wind Direction AVG,58.79304348
+,Solare Radiation AVG,33.10091304
+
+Weatherlog 2015828
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,25,0,0.0
+
+Totals
+,Battery Voltage AVG,13.45916667
+,Temperature AVG,36.16208333
+,Relative Humidity AVG,91.36375
+,Wind Speed Daily AVG,64.10625
+,Wind Direction AVG,40.25666667
+,Solare Radiation AVG,53.22416667
+
+Weatherlog 2015827
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,34,0,0.0
+
+Totals
+,Battery Voltage AVG,13.47791667
+,Temperature AVG,40.64875
+,Relative Humidity AVG,66.89916667
+,Wind Speed Daily AVG,38.68416667
+,Wind Direction AVG,21.47416667
+,Solare Radiation AVG,250.302375
+
+Weatherlog 2015826
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,72,32,6.805555555
+Emmons-Winthrop,2,1,0.5
+
+Totals
+,Battery Voltage AVG,13.51
+,Temperature AVG,41.95083333
+,Relative Humidity AVG,54.23375
+,Wind Speed Daily AVG,35.89916667
+,Wind Direction AVG,22.13458333
+,Solare Radiation AVG,234.041625
+
+Weatherlog 2015825
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,32,13,1.9166666660000002
+
+Totals
+,Battery Voltage AVG,13.47041667
+,Temperature AVG,42.415
+,Relative Humidity AVG,26.72666667
+,Wind Speed Daily AVG,24.9475
+,Wind Direction AVG,19.63125
+,Solare Radiation AVG,275.21133330000004
+
+Weatherlog 2015824
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,38,30,4.268181818
+
+Totals
+,Battery Voltage AVG,13.48166667
+,Temperature AVG,43.36666667
+,Relative Humidity AVG,22.565875
+,Wind Speed Daily AVG,22.82541667
+,Wind Direction AVG,17.94333333
+,Solare Radiation AVG,236.7139583
+
+Weatherlog 2015823
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,41,23,3.75
+
+Totals
+,Battery Voltage AVG,13.46708333
+,Temperature AVG,44.68791667
+,Relative Humidity AVG,26.80133333
+,Wind Speed Daily AVG,24.80958333
+,Wind Direction AVG,17.51666667
+,Solare Radiation AVG,281.0450417
+
+Weatherlog 2015822
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,84,43,12.222222223
+Emmons-Winthrop,4,0,0.0
+Kautz Glacier,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.44541667
+,Temperature AVG,44.36916667
+,Relative Humidity AVG,18.2605
+,Wind Speed Daily AVG,4.4974166669999995
+,Wind Direction AVG,55.20091667
+,Solare Radiation AVG,281.860625
+
+Weatherlog 2015821
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,59,35,9.553030303
+Emmons-Winthrop,9,4,1.0
+Kautz Glacier,4,4,1.0
+
+Totals
+,Battery Voltage AVG,13.4875
+,Temperature AVG,43.20875
+,Relative Humidity AVG,14.29633333
+,Wind Speed Daily AVG,19.14175
+,Wind Direction AVG,19.62958333
+,Solare Radiation AVG,293.7495
+
+Weatherlog 2015820
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,52,34,4.2121212120000004
+
+Totals
+,Battery Voltage AVG,13.3775
+,Temperature AVG,51.13958333
+,Relative Humidity AVG,25.71416667
+,Wind Speed Daily AVG,4.838666667
+,Wind Direction AVG,49.57458333
+,Solare Radiation AVG,287.292125
+
+Weatherlog 2015819
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,28,12,1.780303031
+Emmons-Winthrop,2,0,0.0
+glacier only - no summit attempt,2,2,1.0
+
+Totals
+,Battery Voltage AVG,13.41041667
+,Temperature AVG,51.18958333
+,Relative Humidity AVG,24.26166667
+,Wind Speed Daily AVG,2.924458333
+,Wind Direction AVG,185.8279167
+,Solare Radiation AVG,291.3016667
+
+Weatherlog 2015818
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,55,28,2.7999999989999997
+Emmons-Winthrop,11,0,0.0
+
+Totals
+,Battery Voltage AVG,13.42291667
+,Temperature AVG,49.47041667
+,Relative Humidity AVG,39.9375
+,Wind Speed Daily AVG,4.31375
+,Wind Direction AVG,244.5733333
+,Solare Radiation AVG,290.5622917
+
+Weatherlog 2015817
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,59,19,3.25
+Emmons-Winthrop,10,9,1.0
+Kautz Glacier,2,2,1.0
+
+Totals
+,Battery Voltage AVG,13.45333333
+,Temperature AVG,46.55333333
+,Relative Humidity AVG,30.25375
+,Wind Speed Daily AVG,6.036208332999999
+,Wind Direction AVG,252.915
+,Solare Radiation AVG,295.18425
+
+Weatherlog 2015816
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,41,25,3.75
+Emmons-Winthrop,24,0,0.0
+
+Totals
+,Battery Voltage AVG,13.46208333
+,Temperature AVG,41.11791667
+,Relative Humidity AVG,44.51291667
+,Wind Speed Daily AVG,1.663208333
+,Wind Direction AVG,210.48
+,Solare Radiation AVG,294.587625
+
+Weatherlog 2015815
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,54,35,7.166666666999999
+Emmons-Winthrop,12,4,1.0
+Little Tahoma,2,2,1.0
+
+Totals
+,Battery Voltage AVG,13.47958333
+,Temperature AVG,41.62791667
+,Relative Humidity AVG,19.56183333
+,Wind Speed Daily AVG,7.595541667000001
+,Wind Direction AVG,228.6825
+,Solare Radiation AVG,305.5728333
+
+Weatherlog 2015814
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,78,16,2.4
+
+Totals
+,Battery Voltage AVG,13.48375
+,Temperature AVG,40.04916667
+,Relative Humidity AVG,77.10333333
+,Wind Speed Daily AVG,14.9015
+,Wind Direction AVG,245.56375
+,Solare Radiation AVG,170.0025833
+
+Weatherlog 2015813
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,33,18,1.65
+
+Totals
+,Battery Voltage AVG,13.46416667
+,Temperature AVG,49.99208333
+,Relative Humidity AVG,30.82541667
+,Wind Speed Daily AVG,24.7425
+,Wind Direction AVG,271.9333333
+,Solare Radiation AVG,276.0485
+
+Weatherlog 2015812
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,46,22,5.181818181000001
+Emmons-Winthrop,6,2,1.0
+Kautz Glacier,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.51125
+,Temperature AVG,51.37583333
+,Relative Humidity AVG,46.14041667
+,Wind Speed Daily AVG,6.6737083329999995
+,Wind Direction AVG,171.633375
+,Solare Radiation AVG,208.6705
+
+Weatherlog 2015811
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,68,21,4.833333333000001
+Emmons-Winthrop,12,0,0.0
+Kautz Glacier,10,0,0.0
+
+Totals
+,Battery Voltage AVG,13.50166667
+,Temperature AVG,45.62583333
+,Relative Humidity AVG,54.49666667
+,Wind Speed Daily AVG,9.515125
+,Wind Direction AVG,194.9952083
+,Solare Radiation AVG,181.97529169999999
+
+Weatherlog 2015810
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,43,9,0.75
+Emmons-Winthrop,12,8,0.666666667
+
+Totals
+,Battery Voltage AVG,13.53916667
+,Temperature AVG,39.15708333
+,Relative Humidity AVG,71.17625
+,Wind Speed Daily AVG,24.91166667
+,Wind Direction AVG,260.21666669999996
+,Solare Radiation AVG,182.5133333
+
+Weatherlog 201589
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,35,25,2.9999999990000004
+Emmons-Winthrop,24,19,1.5833333330000001
+Kautz Glacier,10,0,0.0
+
+Totals
+,Battery Voltage AVG,13.59083333
+,Temperature AVG,37.08375
+,Relative Humidity AVG,48.48666667
+,Wind Speed Daily AVG,30.84
+,Wind Direction AVG,264.2958333
+,Solare Radiation AVG,170.5599167
+
+Weatherlog 201588
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,51,24,2.0
+Emmons-Winthrop,1,0,0.0
+
+Totals
+,Battery Voltage AVG,13.50833333
+,Temperature AVG,37.20791667
+,Relative Humidity AVG,71.93125
+,Wind Speed Daily AVG,27.72875
+,Wind Direction AVG,202.2658333
+,Solare Radiation AVG,240.0982083
+
+Weatherlog 201587
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,116,72,8.946969696
+
+Totals
+,Battery Voltage AVG,13.46458333
+,Temperature AVG,42.45083333
+,Relative Humidity AVG,43.5075
+,Wind Speed Daily AVG,4.640541667
+,Wind Direction AVG,20.59791667
+,Solare Radiation AVG,308.749
+
+Weatherlog 201586
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,95,46,7.643939393999999
+Emmons-Winthrop,7,0,0.0
+Kautz Glacier,2,2,1.0
+
+Totals
+,Battery Voltage AVG,13.47166667
+,Temperature AVG,40.76375
+,Relative Humidity AVG,30.05708333
+,Wind Speed Daily AVG,4.1517916669999995
+,Wind Direction AVG,30.62458333
+,Solare Radiation AVG,315.5002917
+
+Weatherlog 201585
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,66,27,4.818181818
+Emmons-Winthrop,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.46791667
+,Temperature AVG,37.44
+,Relative Humidity AVG,38.43166667
+,Wind Speed Daily AVG,7.56075
+,Wind Direction AVG,17.995
+,Solare Radiation AVG,304.6057083
+
+Weatherlog 201584
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,45,34,3.666666667
+Emmons-Winthrop,14,12,1.8333333330000001
+Kautz Glacier,10,6,0.6
+
+Totals
+,Battery Voltage AVG,13.46833333
+,Temperature AVG,41.29625
+,Relative Humidity AVG,39.34041667
+,Wind Speed Daily AVG,9.768666667
+,Wind Direction AVG,26.96041667
+,Solare Radiation AVG,321.4156667
+
+Weatherlog 201583
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,68,38,5.466666667
+Emmons-Winthrop,24,5,0.41666666700000005
+
+Totals
+,Battery Voltage AVG,13.475
+,Temperature AVG,46.85875
+,Relative Humidity AVG,49.985
+,Wind Speed Daily AVG,16.14779167
+,Wind Direction AVG,24.4925
+,Solare Radiation AVG,196.61991669999998
+
+Weatherlog 201582
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,79,49,6.958333333000001
+Emmons-Winthrop,14,10,1.636363636
+Kautz Glacier,15,0,0.0
+
+Totals
+,Battery Voltage AVG,13.50083333
+,Temperature AVG,52.54125
+,Relative Humidity AVG,39.97458333
+,Wind Speed Daily AVG,15.25883333
+,Wind Direction AVG,23.74833333
+,Solare Radiation AVG,199.0620833
+
+Weatherlog 201581
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,93,49,11.076984127
+Emmons-Winthrop,16,13,2.0
+Kautz Glacier,5,0,0.0
+
+Totals
+,Battery Voltage AVG,13.41125
+,Temperature AVG,56.15375
+,Relative Humidity AVG,16.52041667
+,Wind Speed Daily AVG,4.563958333
+,Wind Direction AVG,25.00291667
+,Solare Radiation AVG,323.836125

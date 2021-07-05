@@ -1,0 +1,494 @@
+Attempts
+Date,Attempted
+2015-09-01,46
+2015-09-02,32
+2015-09-03,39
+2015-09-04,43
+2015-09-05,56
+2015-09-06,35
+2015-09-07,47
+2015-09-08,2
+2015-09-09,16
+2015-09-10,14
+2015-09-11,54
+2015-09-12,43
+2015-09-13,37
+2015-09-14,27
+2015-09-15,9
+2015-09-16,12
+2015-09-17,12
+2015-09-18,39
+2015-09-19,37
+2015-09-20,38
+2015-09-21,33
+2015-09-22,3
+2015-09-23,12
+2015-09-24,21
+2015-09-25,23
+2015-09-26,17
+2015-09-27,12
+2015-09-28,12
+2015-09-30,2
+
+climbing routes
+Date,Route,Attempted,Succeeded,Success Percentage
+2015-09-30,Disappointment Cleaver,2,0,0.0
+2015-09-28,Disappointment Cleaver,12,4,0.333333333
+2015-09-27,Disappointment Cleaver,12,6,0.5
+2015-09-26,Disappointment Cleaver,2,0,0.0
+2015-09-26,Disappointment Cleaver,12,3,0.25
+2015-09-26,Disappointment Cleaver,3,0,0.0
+2015-09-25,Disappointment Cleaver,12,9,0.75
+2015-09-25,Disappointment Cleaver,11,6,0.545454545
+2015-09-24,Disappointment Cleaver,10,0,0.0
+2015-09-24,Disappointment Cleaver,11,1,0.090909091
+2015-09-23,Disappointment Cleaver,12,0,0.0
+2015-09-22,Disappointment Cleaver,3,0,0.0
+2015-09-21,Disappointment Cleaver,2,0,0.0
+2015-09-21,Disappointment Cleaver,2,0,0.0
+2015-09-21,Disappointment Cleaver,11,0,0.0
+2015-09-21,Disappointment Cleaver,8,0,0.0
+2015-09-21,Disappointment Cleaver,10,9,0.9
+2015-09-20,Disappointment Cleaver,3,0,0.0
+2015-09-20,Disappointment Cleaver,12,7,0.583333333
+2015-09-20,Disappointment Cleaver,12,0,0.0
+2015-09-20,Disappointment Cleaver,11,0,0.0
+2015-09-19,Disappointment Cleaver,12,0,0.0
+2015-09-19,Disappointment Cleaver,2,0,0.0
+2015-09-19,Disappointment Cleaver,12,0,0.0
+2015-09-19,Disappointment Cleaver,11,0,0.0
+2015-09-18,Disappointment Cleaver,12,0,0.0
+2015-09-18,Disappointment Cleaver,11,0,0.0
+2015-09-18,Disappointment Cleaver,12,0,0.0
+2015-09-18,Disappointment Cleaver,2,0,0.0
+2015-09-18,Disappointment Cleaver,2,0,0.0
+2015-09-17,Disappointment Cleaver,12,0,0.0
+2015-09-16,Disappointment Cleaver,12,0,0.0
+2015-09-15,Disappointment Cleaver,9,0,0.0
+2015-09-14,Disappointment Cleaver,8,7,0.875
+2015-09-14,Disappointment Cleaver,12,12,1.0
+2015-09-14,Disappointment Cleaver,2,2,1.0
+2015-09-14,Disappointment Cleaver,3,3,1.0
+2015-09-14,Disappointment Cleaver,2,2,1.0
+2015-09-13,Disappointment Cleaver,2,0,0.0
+2015-09-13,Disappointment Cleaver,12,0,0.0
+2015-09-13,Disappointment Cleaver,12,0,0.0
+2015-09-13,Disappointment Cleaver,11,0,0.0
+2015-09-12,Disappointment Cleaver,2,0,0.0
+2015-09-12,Disappointment Cleaver,11,0,0.0
+2015-09-12,Disappointment Cleaver,11,0,0.0
+2015-09-12,Disappointment Cleaver,2,0,0.0
+2015-09-12,Disappointment Cleaver,2,0,0.0
+2015-09-12,Disappointment Cleaver,2,2,1.0
+2015-09-12,Disappointment Cleaver,1,0,0.0
+2015-09-12,Disappointment Cleaver,12,11,0.916666667
+2015-09-11,Disappointment Cleaver,3,0,0.0
+2015-09-11,Disappointment Cleaver,12,4,0.333333333
+2015-09-11,Disappointment Cleaver,12,4,0.333333333
+2015-09-11,Disappointment Cleaver,12,0,0.0
+2015-09-11,Disappointment Cleaver,1,0,0.0
+2015-09-11,Disappointment Cleaver,4,0,0.0
+2015-09-11,Disappointment Cleaver,6,0,0.0
+2015-09-11,Disappointment Cleaver,2,2,1.0
+2015-09-11,Disappointment Cleaver,2,0,0.0
+2015-09-10,Disappointment Cleaver,12,0,0.0
+2015-09-10,Disappointment Cleaver,2,2,1.0
+2015-09-09,Disappointment Cleaver,2,2,1.0
+2015-09-09,Disappointment Cleaver,2,0,0.0
+2015-09-09,Disappointment Cleaver,12,10,0.833333333
+2015-09-08,Disappointment Cleaver,2,0,0.0
+2015-09-07,Disappointment Cleaver,2,0,0.0
+2015-09-07,Disappointment Cleaver,3,0,0.0
+2015-09-07,Disappointment Cleaver,12,5,0.41666666700000005
+2015-09-07,Disappointment Cleaver,8,4,0.5
+2015-09-07,Disappointment Cleaver,11,0,0.0
+2015-09-07,Disappointment Cleaver,11,9,0.818181818
+2015-09-06,Disappointment Cleaver,12,0,0.0
+2015-09-06,Disappointment Cleaver,11,0,0.0
+2015-09-06,Disappointment Cleaver,12,0,0.0
+2015-09-05,Disappointment Cleaver,3,0,0.0
+2015-09-05,Emmons-Winthrop,5,0,0.0
+2015-09-05,Disappointment Cleaver,2,0,0.0
+2015-09-05,Disappointment Cleaver,3,0,0.0
+2015-09-05,Disappointment Cleaver,12,0,0.0
+2015-09-05,Disappointment Cleaver,2,0,0.0
+2015-09-05,Disappointment Cleaver,4,0,0.0
+2015-09-05,Disappointment Cleaver,12,0,0.0
+2015-09-05,Disappointment Cleaver,11,0,0.0
+2015-09-05,Disappointment Cleaver,2,0,0.0
+2015-09-04,Disappointment Cleaver,3,0,0.0
+2015-09-04,Disappointment Cleaver,12,0,0.0
+2015-09-04,Disappointment Cleaver,12,0,0.0
+2015-09-04,Disappointment Cleaver,12,0,0.0
+2015-09-04,Disappointment Cleaver,2,0,0.0
+2015-09-04,Disappointment Cleaver,2,0,0.0
+2015-09-03,Disappointment Cleaver,2,0,0.0
+2015-09-03,Disappointment Cleaver,3,0,0.0
+2015-09-03,Disappointment Cleaver,11,0,0.0
+2015-09-03,Disappointment Cleaver,11,0,0.0
+2015-09-03,Disappointment Cleaver,12,0,0.0
+2015-09-02,Disappointment Cleaver,8,0,0.0
+2015-09-02,Disappointment Cleaver,12,0,0.0
+2015-09-02,Disappointment Cleaver,12,0,0.0
+2015-09-01,Disappointment Cleaver,12,0,0.0
+2015-09-01,Disappointment Cleaver,10,0,0.0
+2015-09-01,Disappointment Cleaver,12,0,0.0
+2015-09-01,Disappointment Cleaver,12,0,0.0
+
+Weatherlog 2015930
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.48333333
+,Temperature AVG,38.72958333
+,Relative Humidity AVG,57.36958333
+,Wind Speed Daily AVG,11.30075
+,Wind Direction AVG,216.9341667
+,Solare Radiation AVG,202.81275
+
+Weatherlog 2015929
+Totals
+,Battery Voltage AVG,13.49583333
+,Temperature AVG,40.255
+,Relative Humidity AVG,31.24441667
+,Wind Speed Daily AVG,29.11041667
+,Wind Direction AVG,270.2083333
+,Solare Radiation AVG,195.9231667
+
+Weatherlog 2015928
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,4,0.333333333
+
+Totals
+,Battery Voltage AVG,13.50333333
+,Temperature AVG,38.33541667
+,Relative Humidity AVG,27.02541667
+,Wind Speed Daily AVG,17.11520833
+,Wind Direction AVG,270.8666667
+,Solare Radiation AVG,201.85258330000002
+
+Weatherlog 2015927
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,6,0.5
+
+Totals
+,Battery Voltage AVG,13.50458333
+,Temperature AVG,35.105
+,Relative Humidity AVG,23.76833333
+,Wind Speed Daily AVG,4.5570833330000005
+,Wind Direction AVG,188.2135833
+,Solare Radiation AVG,201.89120830000002
+
+Weatherlog 2015926
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,17,3,0.25
+
+Totals
+,Battery Voltage AVG,13.51625
+,Temperature AVG,27.32208333
+,Relative Humidity AVG,59.46991667
+,Wind Speed Daily AVG,15.73075
+,Wind Direction AVG,216.3425
+,Solare Radiation AVG,183.87170830000002
+
+Weatherlog 2015925
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,23,15,1.2954545450000001
+
+Totals
+,Battery Voltage AVG,13.03708333
+,Temperature AVG,32.39041667
+,Relative Humidity AVG,95.30583333
+,Wind Speed Daily AVG,61.3875
+,Wind Direction AVG,261.03333330000004
+,Solare Radiation AVG,12.38258333
+
+Weatherlog 2015924
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,21,1,0.090909091
+
+Totals
+,Battery Voltage AVG,13.55375
+,Temperature AVG,36.09958333
+,Relative Humidity AVG,60.97875
+,Wind Speed Daily AVG,51.61083333
+,Wind Direction AVG,265.4166667
+,Solare Radiation AVG,180.315875
+
+Weatherlog 2015923
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,0,0.0
+
+Totals
+,Battery Voltage AVG,13.5425
+,Temperature AVG,30.87583333
+,Relative Humidity AVG,70.45
+,Wind Speed Daily AVG,35.44875
+,Wind Direction AVG,263.3833333
+,Solare Radiation AVG,138.2574583
+
+Weatherlog 2015922
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.47
+,Temperature AVG,34.56541667
+,Relative Humidity AVG,21.985
+,Wind Speed Daily AVG,22.35341667
+,Wind Direction AVG,247.15875
+,Solare Radiation AVG,215.4495417
+
+Weatherlog 2015921
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,33,9,0.9
+
+Totals
+,Battery Voltage AVG,13.46375
+,Temperature AVG,37.40666667
+,Relative Humidity AVG,17.20541667
+,Wind Speed Daily AVG,13.77908333
+,Wind Direction AVG,149.3954167
+,Solare Radiation AVG,221.8321667
+
+Weatherlog 2015920
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,38,7,0.583333333
+
+Totals
+,Battery Voltage AVG,13.47
+,Temperature AVG,37.6425
+,Relative Humidity AVG,68.0775
+,Wind Speed Daily AVG,31.28666667
+,Wind Direction AVG,40.02583333
+,Solare Radiation AVG,215.14358330000002
+
+Weatherlog 2015919
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,37,0,0.0
+
+Totals
+,Battery Voltage AVG,13.48041667
+,Temperature AVG,40.44916667
+,Relative Humidity AVG,63.53708333
+,Wind Speed Daily AVG,7.9539166670000006
+,Wind Direction AVG,34.0375
+,Solare Radiation AVG,219.4595
+
+Weatherlog 2015918
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,39,0,0.0
+
+Totals
+,Battery Voltage AVG,13.4575
+,Temperature AVG,34.73375
+,Relative Humidity AVG,52.70166667
+,Wind Speed Daily AVG,6.354375
+,Wind Direction AVG,30.35875
+,Solare Radiation AVG,200.940625
+
+Weatherlog 2015917
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,0,0.0
+
+Totals
+,Battery Voltage AVG,13.61083333
+,Temperature AVG,26.44208333
+,Relative Humidity AVG,85.25291667
+,Wind Speed Daily AVG,9.367166667000001
+,Wind Direction AVG,28.55166667
+,Solare Radiation AVG,203.176375
+
+Weatherlog 2015916
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,0,0.0
+
+Totals
+,Battery Voltage AVG,13.59958333
+,Temperature AVG,22.08
+,Relative Humidity AVG,98.65
+,Wind Speed Daily AVG,15.922375
+,Wind Direction AVG,17.27916667
+,Solare Radiation AVG,142.4772917
+
+Weatherlog 2015915
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,9,0,0.0
+
+Totals
+,Battery Voltage AVG,13.54166667
+,Temperature AVG,19.81375
+,Relative Humidity AVG,54.48041667
+,Wind Speed Daily AVG,7.8277083329999995
+,Wind Direction AVG,13.49
+,Solare Radiation AVG,153.95775
+
+Weatherlog 2015914
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,27,26,4.875
+
+Totals
+,Battery Voltage AVG,13.49958333
+,Temperature AVG,23.02125
+,Relative Humidity AVG,60.216125
+,Wind Speed Daily AVG,11.10675
+,Wind Direction AVG,13.96916667
+,Solare Radiation AVG,90.693
+
+Weatherlog 2015913
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,37,0,0.0
+
+Totals
+,Battery Voltage AVG,13.44125
+,Temperature AVG,42.59166667
+,Relative Humidity AVG,17.42758333
+,Wind Speed Daily AVG,14.43820833
+,Wind Direction AVG,20.535
+,Solare Radiation AVG,207.5935
+
+Weatherlog 2015912
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,43,13,1.9166666669999999
+
+Totals
+,Battery Voltage AVG,13.42666667
+,Temperature AVG,51.76
+,Relative Humidity AVG,27.91541667
+,Wind Speed Daily AVG,19.81575
+,Wind Direction AVG,220.86625
+,Solare Radiation AVG,238.10541669999998
+
+Weatherlog 2015911
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,54,10,1.666666666
+
+Totals
+,Battery Voltage AVG,13.43166667
+,Temperature AVG,52.30416667
+,Relative Humidity AVG,18.9025
+,Wind Speed Daily AVG,12.39225
+,Wind Direction AVG,278.9
+,Solare Radiation AVG,234.3315833
+
+Weatherlog 2015910
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,14,2,1.0
+
+Totals
+,Battery Voltage AVG,13.40291667
+,Temperature AVG,53.10583333
+,Relative Humidity AVG,15.78708333
+,Wind Speed Daily AVG,2.488416667
+,Wind Direction AVG,140.1174583
+,Solare Radiation AVG,243.4372917
+
+Weatherlog 201599
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,16,12,1.8333333330000001
+
+Totals
+,Battery Voltage AVG,13.44625
+,Temperature AVG,47.29416667
+,Relative Humidity AVG,25.0825
+,Wind Speed Daily AVG,7.66225
+,Wind Direction AVG,208.80083330000002
+,Solare Radiation AVG,241.27829169999998
+
+Weatherlog 201598
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.48166667
+,Temperature AVG,43.75958333
+,Relative Humidity AVG,40.11041667
+,Wind Speed Daily AVG,7.346541667
+,Wind Direction AVG,200.0033333
+,Solare Radiation AVG,243.2357083
+
+Weatherlog 201597
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,47,18,1.734848485
+
+Totals
+,Battery Voltage AVG,13.46125
+,Temperature AVG,35.25291667
+,Relative Humidity AVG,48.96291667
+,Wind Speed Daily AVG,3.89525
+,Wind Direction AVG,235.4966667
+,Solare Radiation AVG,248.5455
+
+Weatherlog 201596
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,35,0,0.0
+
+Totals
+,Battery Voltage AVG,13.45666667
+,Temperature AVG,28.99416667
+,Relative Humidity AVG,74.715
+,Wind Speed Daily AVG,11.76808333
+,Wind Direction AVG,213.9854167
+,Solare Radiation AVG,241.9712917
+
+Weatherlog 201595
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,51,0,0.0
+Emmons-Winthrop,5,0,0.0
+
+Totals
+,Battery Voltage AVG,13.4
+,Temperature AVG,24.97708333
+,Relative Humidity AVG,74.395
+,Wind Speed Daily AVG,4.64325
+,Wind Direction AVG,221.5945833
+,Solare Radiation AVG,221.49400000000003
+
+Weatherlog 201594
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,43,0,0.0
+
+Totals
+,Battery Voltage AVG,13.44416667
+,Temperature AVG,21.42833333
+,Relative Humidity AVG,90.97875
+,Wind Speed Daily AVG,5.825083332999999
+,Wind Direction AVG,173.56916669999998
+,Solare Radiation AVG,141.671125
+
+Weatherlog 201593
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,39,0,0.0
+
+Totals
+,Battery Voltage AVG,13.53416667
+,Temperature AVG,20.42208333
+,Relative Humidity AVG,90.81
+,Wind Speed Daily AVG,8.345
+,Wind Direction AVG,195.80375
+,Solare Radiation AVG,214.4229167
+
+Weatherlog 201592
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,32,0,0.0
+
+Totals
+,Battery Voltage AVG,13.60458333
+,Temperature AVG,22.40041667
+,Relative Humidity AVG,91.62541667
+,Wind Speed Daily AVG,23.27375
+,Wind Direction AVG,188.12083330000002
+,Solare Radiation AVG,233.4845833
+
+Weatherlog 201591
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,46,0,0.0
+
+Totals
+,Battery Voltage AVG,13.57875
+,Temperature AVG,32.07875
+,Relative Humidity AVG,66.61916667
+,Wind Speed Daily AVG,33.07875
+,Wind Direction AVG,238.1875
+,Solare Radiation AVG,201.78916669999998

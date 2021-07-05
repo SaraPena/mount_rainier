@@ -1,0 +1,359 @@
+Attempts
+Date,Attempted
+2015-04-05,18
+2015-04-11,6
+2015-04-13,15
+2015-04-17,8
+2015-04-18,16
+2015-04-19,10
+2015-04-20,6
+2015-04-23,4
+2015-04-24,9
+2015-04-26,2
+2015-04-27,17
+2015-04-30,5
+
+climbing routes
+Date,Route,Attempted,Succeeded,Success Percentage
+2015-04-30,Disappointment Cleaver,2,0,0.0
+2015-04-30,Disappointment Cleaver,3,2,0.666666667
+2015-04-27,Disappointment Cleaver,4,0,0.0
+2015-04-27,Disappointment Cleaver,11,11,1.0
+2015-04-27,Disappointment Cleaver,2,2,1.0
+2015-04-26,Wilson Headwall,2,0,0.0
+2015-04-24,Disappointment Cleaver,4,0,0.0
+2015-04-24,Gibralter Chute,3,0,0.0
+2015-04-24,Disappointment Cleaver,2,0,0.0
+2015-04-23,Disappointment Cleaver,4,4,1.0
+2015-04-20,Fuhrers Finger,2,0,0.0
+2015-04-20,Ingraham Direct,2,0,0.0
+2015-04-20,Ingraham Direct,2,0,0.0
+2015-04-19,Ingraham Direct,8,0,0.0
+2015-04-19,Gibralter Ledges,2,0,0.0
+2015-04-18,Gibralter Ledges,2,0,0.0
+2015-04-18,Disappointment Cleaver,2,0,0.0
+2015-04-18,Wilson Headwall,3,0,0.0
+2015-04-18,Disappointment Cleaver,3,0,0.0
+2015-04-18,Gibralter Ledges,2,0,0.0
+2015-04-18,Disappointment Cleaver,2,0,0.0
+2015-04-18,Disappointment Cleaver,2,0,0.0
+2015-04-17,Kautz Glacier,4,0,0.0
+2015-04-17,Disappointment Cleaver,2,0,0.0
+2015-04-17,Disappointment Cleaver,2,0,0.0
+2015-04-13,Disappointment Cleaver,7,0,0.0
+2015-04-13,Disappointment Cleaver,8,0,0.0
+2015-04-11,Ingraham Direct,6,0,0.0
+2015-04-05,glacier only - no summit attempt,10,0,0.0
+2015-04-05,glacier only - no summit attempt,8,0,0.0
+
+Weatherlog 2015430
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,5,2,0.666666667
+
+Totals
+,Battery Voltage AVG,13.51125
+,Temperature AVG,31.68375
+,Relative Humidity AVG,45.21333333
+,Wind Speed Daily AVG,14.787375
+,Wind Direction AVG,199.755875
+,Solare Radiation AVG,41.20166667
+
+Weatherlog 2015429
+Totals
+,Battery Voltage AVG,13.4725
+,Temperature AVG,19.84541667
+,Relative Humidity AVG,56.280125
+,Wind Speed Daily AVG,17.22995833
+,Wind Direction AVG,241.4983333
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015428
+Totals
+,Battery Voltage AVG,13.56833333
+,Temperature AVG,28.88166667
+,Relative Humidity AVG,81.17125
+,Wind Speed Daily AVG,54.32083333
+,Wind Direction AVG,267.5625
+,Solare Radiation AVG,0.949125
+
+Weatherlog 2015427
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,17,13,2.0
+
+Totals
+,Battery Voltage AVG,13.61458333
+,Temperature AVG,32.37291667
+,Relative Humidity AVG,77.0775
+,Wind Speed Daily AVG,15.32033333
+,Wind Direction AVG,171.8858333
+,Solare Radiation AVG,13.2635
+
+Weatherlog 2015426
+Route,Attempted,Succeeded,Success Percentage
+Wilson Headwall,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.45041667
+,Temperature AVG,21.72125
+,Relative Humidity AVG,46.13583333
+,Wind Speed Daily AVG,6.800083333
+,Wind Direction AVG,246.0141667
+,Solare Radiation AVG,14.9675
+
+Weatherlog 2015425
+Totals
+,Battery Voltage AVG,13.60583333
+,Temperature AVG,10.92091667
+,Relative Humidity AVG,64.44875
+,Wind Speed Daily AVG,12.03766667
+,Wind Direction AVG,192.77366669999998
+,Solare Radiation AVG,1.79875
+
+Weatherlog 2015424
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,6,0,0.0
+Gibralter Chute,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.69666667
+,Temperature AVG,9.032041667
+,Relative Humidity AVG,91.73125
+,Wind Speed Daily AVG,42.71291667
+,Wind Direction AVG,224.6958333
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015423
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,4,4,1.0
+
+Totals
+,Battery Voltage AVG,13.43458333
+,Temperature AVG,18.64516667
+,Relative Humidity AVG,81.78208333
+,Wind Speed Daily AVG,32.89291667
+,Wind Direction AVG,261.3666667
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015422
+Totals
+,Battery Voltage AVG,13.4625
+,Temperature AVG,25.03041667
+,Relative Humidity AVG,34.47325
+,Wind Speed Daily AVG,12.7425
+,Wind Direction AVG,163.21225
+,Solare Radiation AVG,29.49416667
+
+Weatherlog 2015421
+Totals
+,Battery Voltage AVG,13.48416667
+,Temperature AVG,27.65666667
+,Relative Humidity AVG,49.39929167
+,Wind Speed Daily AVG,20.89729167
+,Wind Direction AVG,219.4254167
+,Solare Radiation AVG,4.928333333
+
+Weatherlog 2015420
+Route,Attempted,Succeeded,Success Percentage
+Fuhrers Finger,2,0,0.0
+Ingraham Direct,4,0,0.0
+
+Totals
+,Battery Voltage AVG,13.54916667
+,Temperature AVG,32.52625
+,Relative Humidity AVG,49.50958333
+,Wind Speed Daily AVG,3.4464583330000003
+,Wind Direction AVG,265.0454167
+,Solare Radiation AVG,23.46891667
+
+Weatherlog 2015419
+Route,Attempted,Succeeded,Success Percentage
+Gibralter Ledges,2,0,0.0
+Ingraham Direct,8,0,0.0
+
+Totals
+,Battery Voltage AVG,13.58958333
+,Temperature AVG,32.94708333
+,Relative Humidity AVG,31.71416667
+,Wind Speed Daily AVG,2.4748333330000003
+,Wind Direction AVG,228.0891667
+,Solare Radiation AVG,56.40916667
+
+Weatherlog 2015418
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,9,0,0.0
+Gibralter Ledges,4,0,0.0
+Wilson Headwall,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.62208333
+,Temperature AVG,32.19458333
+,Relative Humidity AVG,18.87916667
+,Wind Speed Daily AVG,8.654291667
+,Wind Direction AVG,214.38133330000002
+,Solare Radiation AVG,34.68395833
+
+Weatherlog 2015417
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,4,0,0.0
+Kautz Glacier,4,0,0.0
+
+Totals
+,Battery Voltage AVG,13.6325
+,Temperature AVG,30.61708333
+,Relative Humidity AVG,43.83416667
+,Wind Speed Daily AVG,7.1242916670000005
+,Wind Direction AVG,204.24900000000002
+,Solare Radiation AVG,26.34841667
+
+Weatherlog 2015416
+Totals
+,Battery Voltage AVG,13.62458333
+,Temperature AVG,32.36833333
+,Relative Humidity AVG,44.22583333
+,Wind Speed Daily AVG,2.897208333
+,Wind Direction AVG,213.0383333
+,Solare Radiation AVG,42.76875
+
+Weatherlog 2015415
+Totals
+,Battery Voltage AVG,13.67416667
+,Temperature AVG,26.8475
+,Relative Humidity AVG,37.22375
+,Wind Speed Daily AVG,5.762583332999999
+,Wind Direction AVG,274.0430417
+,Solare Radiation AVG,59.645
+
+Weatherlog 2015414
+Totals
+,Battery Voltage AVG,13.75458333
+,Temperature AVG,6.937875
+,Relative Humidity AVG,81.27708333
+,Wind Speed Daily AVG,10.96245833
+,Wind Direction AVG,169.6572083
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015413
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,15,0,0.0
+
+Totals
+,Battery Voltage AVG,13.79458333
+,Temperature AVG,14.16520833
+,Relative Humidity AVG,65.17416667
+,Wind Speed Daily AVG,53.663875
+,Wind Direction AVG,262.6145833
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015412
+Totals
+,Battery Voltage AVG,13.75333333
+,Temperature AVG,13.93475
+,Relative Humidity AVG,77.83125
+,Wind Speed Daily AVG,26.76316667
+,Wind Direction AVG,252.3
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015411
+Route,Attempted,Succeeded,Success Percentage
+Ingraham Direct,6,0,0.0
+
+Totals
+,Battery Voltage AVG,13.77416667
+,Temperature AVG,6.834833333
+,Relative Humidity AVG,85.88208333
+,Wind Speed Daily AVG,46.41875
+,Wind Direction AVG,236.45
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015410
+Totals
+,Battery Voltage AVG,13.71
+,Temperature AVG,16.15666667
+,Relative Humidity AVG,51.52958333
+,Wind Speed Daily AVG,53.59666667
+,Wind Direction AVG,264.8083333
+,Solare Radiation AVG,0.0
+
+Weatherlog 201549
+Totals
+,Battery Voltage AVG,13.5175
+,Temperature AVG,16.2075
+,Relative Humidity AVG,72.52833333
+,Wind Speed Daily AVG,10.51645833
+,Wind Direction AVG,188.3279167
+,Solare Radiation AVG,0.500083333
+
+Weatherlog 201548
+Totals
+,Battery Voltage AVG,13.3425
+,Temperature AVG,16.41375
+,Relative Humidity AVG,83.65
+,Wind Speed Daily AVG,2.303875
+,Wind Direction AVG,221.50925
+,Solare Radiation AVG,5.3558333330000005
+
+Weatherlog 201547
+Totals
+,Battery Voltage AVG,13.14333333
+,Temperature AVG,14.55708333
+,Relative Humidity AVG,93.6875
+,Wind Speed Daily AVG,7.771375
+,Wind Direction AVG,232.28725
+,Solare Radiation AVG,0.0
+
+Weatherlog 201546
+Totals
+,Battery Voltage AVG,13.675
+,Temperature AVG,12.19175
+,Relative Humidity AVG,84.8775
+,Wind Speed Daily AVG,7.927541667000001
+,Wind Direction AVG,250.82625
+,Solare Radiation AVG,0.0
+
+Weatherlog 201545
+Route,Attempted,Succeeded,Success Percentage
+glacier only - no summit attempt,18,0,0.0
+
+Totals
+,Battery Voltage AVG,13.69958333
+,Temperature AVG,8.220708333
+,Relative Humidity AVG,81.88125
+,Wind Speed Daily AVG,5.4999583329999995
+,Wind Direction AVG,174.52716669999998
+,Solare Radiation AVG,0.397291667
+
+Weatherlog 201544
+Totals
+,Battery Voltage AVG,13.71791667
+,Temperature AVG,9.569625
+,Relative Humidity AVG,42.15291667
+,Wind Speed Daily AVG,6.387333333
+,Wind Direction AVG,184.585875
+,Solare Radiation AVG,0.0
+
+Weatherlog 201543
+Totals
+,Battery Voltage AVG,13.71041667
+,Temperature AVG,9.291291667000001
+,Relative Humidity AVG,66.99666667
+,Wind Speed Daily AVG,24.59041667
+,Wind Direction AVG,234.3185417
+,Solare Radiation AVG,0.0
+
+Weatherlog 201542
+Totals
+,Battery Voltage AVG,13.61291667
+,Temperature AVG,12.011875
+,Relative Humidity AVG,37.63208333
+,Wind Speed Daily AVG,5.377416667
+,Wind Direction AVG,239.7066667
+,Solare Radiation AVG,0.0
+
+Weatherlog 201541
+Totals
+,Battery Voltage AVG,13.64291667
+,Temperature AVG,9.978625
+,Relative Humidity AVG,62.7775
+,Wind Speed Daily AVG,9.908375
+,Wind Direction AVG,171.824625
+,Solare Radiation AVG,0.0

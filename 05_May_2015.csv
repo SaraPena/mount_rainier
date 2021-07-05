@@ -1,0 +1,676 @@
+Attempts
+Date,Attempted
+2015-05-01,36
+2015-05-02,29
+2015-05-04,26
+2015-05-07,11
+2015-05-08,17
+2015-05-09,52
+2015-05-10,4
+2015-05-11,33
+2015-05-12,12
+2015-05-13,42
+2015-05-14,27
+2015-05-15,38
+2015-05-16,25
+2015-05-17,47
+2015-05-18,40
+2015-05-19,21
+2015-05-20,18
+2015-05-21,15
+2015-05-22,56
+2015-05-23,85
+2015-05-24,57
+2015-05-25,46
+2015-05-26,19
+2015-05-27,29
+2015-05-28,30
+2015-05-29,78
+2015-05-30,155
+2015-05-31,22
+
+climbing routes
+Date,Route,Attempted,Succeeded,Success Percentage
+2015-05-31,Disappointment Cleaver,11,8,0.727272727
+2015-05-31,Disappointment Cleaver,11,11,1.0
+2015-05-30,Emmons-Winthrop,2,0,0.0
+2015-05-30,Disappointment Cleaver,4,0,0.0
+2015-05-30,Disappointment Cleaver,3,0,0.0
+2015-05-30,Disappointment Cleaver,3,0,0.0
+2015-05-30,Ingraham Direct,2,2,1.0
+2015-05-30,Emmons-Winthrop,2,2,1.0
+2015-05-30,Liberty RIngraham Directge,2,2,1.0
+2015-05-30,Little Tahoma,11,0,0.0
+2015-05-30,Emmons-Winthrop,2,0,0.0
+2015-05-30,Disappointment Cleaver,3,0,0.0
+2015-05-30,Disappointment Cleaver,2,0,0.0
+2015-05-30,Disappointment Cleaver,5,0,0.0
+2015-05-30,Kautz Glacier,2,0,0.0
+2015-05-30,Disappointment Cleaver,12,0,0.0
+2015-05-30,glacier only - no summit attempt,1,0,0.0
+2015-05-30,Disappointment Cleaver,12,0,0.0
+2015-05-30,Disappointment Cleaver,3,0,0.0
+2015-05-30,Disappointment Cleaver,2,0,0.0
+2015-05-30,Disappointment Cleaver,5,0,0.0
+2015-05-30,Disappointment Cleaver,3,3,1.0
+2015-05-30,Disappointment Cleaver,3,3,1.0
+2015-05-30,glacier only - no summit attempt,2,0,0.0
+2015-05-30,Disappointment Cleaver,1,1,1.0
+2015-05-30,Gibralter Ledges,3,0,0.0
+2015-05-30,Disappointment Cleaver,12,5,0.41666666700000005
+2015-05-30,Disappointment Cleaver,4,4,1.0
+2015-05-30,Disappointment Cleaver,12,7,0.583333333
+2015-05-30,Kautz Glacier,2,2,1.0
+2015-05-30,Ingraham Direct,3,3,1.0
+2015-05-30,Disappointment Cleaver,2,0,0.0
+2015-05-30,Disappointment Cleaver,3,3,1.0
+2015-05-30,Disappointment Cleaver,3,0,0.0
+2015-05-30,Disappointment Cleaver,4,0,0.0
+2015-05-30,Disappointment Cleaver,12,12,1.0
+2015-05-30,Disappointment Cleaver,8,8,1.0
+2015-05-29,Disappointment Cleaver,1,0,0.0
+2015-05-29,Disappointment Cleaver,2,0,0.0
+2015-05-29,Liberty RIngraham Directge,4,0,0.0
+2015-05-29,Disappointment Cleaver,2,0,0.0
+2015-05-29,Fuhrers Finger,2,2,1.0
+2015-05-29,Disappointment Cleaver,3,3,1.0
+2015-05-29,Disappointment Cleaver,4,2,0.5
+2015-05-29,Disappointment Cleaver,2,2,1.0
+2015-05-29,Disappointment Cleaver,2,0,0.0
+2015-05-29,Little Tahoma,2,2,1.0
+2015-05-29,Disappointment Cleaver,2,0,0.0
+2015-05-29,Disappointment Cleaver,2,2,1.0
+2015-05-29,Curtis RIngraham Directge,2,0,0.0
+2015-05-29,Disappointment Cleaver,12,10,0.833333333
+2015-05-29,Disappointment Cleaver,12,7,0.583333333
+2015-05-29,Ptarmigan RIngraham Directge,3,0,0.0
+2015-05-29,Disappointment Cleaver,12,12,1.0
+2015-05-29,Disappointment Cleaver,4,2,0.5
+2015-05-29,Kautz Glacier,2,2,1.0
+2015-05-29,Disappointment Cleaver,2,0,0.0
+2015-05-29,Disappointment Cleaver,1,0,0.0
+2015-05-28,Disappointment Cleaver,5,5,1.0
+2015-05-28,Emmons-Winthrop,3,0,0.0
+2015-05-28,Little Tahoma,3,3,1.0
+2015-05-28,Disappointment Cleaver,3,3,1.0
+2015-05-28,Fuhrers Finger,3,0,0.0
+2015-05-28,Disappointment Cleaver,12,10,0.833333333
+2015-05-28,Kautz Glacier,1,0,0.0
+2015-05-27,Disappointment Cleaver,11,5,0.454545455
+2015-05-27,Disappointment Cleaver,8,6,0.75
+2015-05-27,Disappointment Cleaver,4,3,0.75
+2015-05-27,Disappointment Cleaver,2,0,0.0
+2015-05-27,Emmons-Winthrop,4,3,0.75
+2015-05-26,Disappointment Cleaver,2,0,0.0
+2015-05-26,Emmons-Winthrop,3,0,0.0
+2015-05-26,Disappointment Cleaver,12,10,0.833333333
+2015-05-26,Disappointment Cleaver,2,0,0.0
+2015-05-25,Disappointment Cleaver,2,0,0.0
+2015-05-25,Kautz Glacier,4,4,1.0
+2015-05-25,Disappointment Cleaver,1,0,0.0
+2015-05-25,Disappointment Cleaver,3,3,1.0
+2015-05-25,Liberty RIngraham Directge,5,0,0.0
+2015-05-25,Emmons-Winthrop,2,2,1.0
+2015-05-25,Disappointment Cleaver,10,4,0.4
+2015-05-25,Disappointment Cleaver,11,11,1.0
+2015-05-25,Disappointment Cleaver,8,7,0.875
+2015-05-24,Little Tahoma,11,0,0.0
+2015-05-24,Kautz Glacier,4,4,1.0
+2015-05-24,Disappointment Cleaver,3,0,0.0
+2015-05-24,Disappointment Cleaver,11,0,0.0
+2015-05-24,Disappointment Cleaver,12,9,0.75
+2015-05-24,Disappointment Cleaver,12,7,0.583333333
+2015-05-24,Disappointment Cleaver,2,2,1.0
+2015-05-24,Little Tahoma,2,0,0.0
+2015-05-23,Disappointment Cleaver,2,0,0.0
+2015-05-23,Emmons-Winthrop,4,0,0.0
+2015-05-23,Disappointment Cleaver,3,3,1.0
+2015-05-23,glacier only - no summit attempt,6,0,0.0
+2015-05-23,Disappointment Cleaver,4,4,1.0
+2015-05-23,Emmons-Winthrop,4,0,0.0
+2015-05-23,Disappointment Cleaver,2,2,1.0
+2015-05-23,Disappointment Cleaver,2,2,1.0
+2015-05-23,Fuhrers Finger,2,0,0.0
+2015-05-23,Disappointment Cleaver,5,5,1.0
+2015-05-23,Disappointment Cleaver,4,4,1.0
+2015-05-23,Disappointment Cleaver,12,11,0.916666667
+2015-05-23,Disappointment Cleaver,10,0,0.0
+2015-05-23,Liberty RIngraham Directge,4,0,0.0
+2015-05-23,Disappointment Cleaver,3,3,1.0
+2015-05-23,Tahoma Glacier,4,0,0.0
+2015-05-23,Disappointment Cleaver,2,0,0.0
+2015-05-23,Disappointment Cleaver,12,8,0.666666667
+2015-05-22,Disappointment Cleaver,2,0,0.0
+2015-05-22,Disappointment Cleaver,4,0,0.0
+2015-05-22,Disappointment Cleaver,2,0,0.0
+2015-05-22,Disappointment Cleaver,4,0,0.0
+2015-05-22,Liberty RIngraham Directge,3,0,0.0
+2015-05-22,Disappointment Cleaver,1,1,1.0
+2015-05-22,Disappointment Cleaver,1,1,1.0
+2015-05-22,Emmons-Winthrop,3,0,0.0
+2015-05-22,Kautz Glacier,3,0,0.0
+2015-05-22,Fuhrers Finger,4,0,0.0
+2015-05-22,Disappointment Cleaver,2,0,0.0
+2015-05-22,Emmons-Winthrop,3,0,0.0
+2015-05-22,Disappointment Cleaver,12,0,0.0
+2015-05-22,Disappointment Cleaver,12,10,0.833333333
+2015-05-21,Kautz Cleaver,3,0,0.0
+2015-05-21,Disappointment Cleaver,12,0,0.0
+2015-05-20,Disappointment Cleaver,3,0,0.0
+2015-05-20,Disappointment Cleaver,12,7,0.583333333
+2015-05-20,Disappointment Cleaver,3,0,0.0
+2015-05-19,Disappointment Cleaver,3,0,0.0
+2015-05-19,Disappointment Cleaver,3,0,0.0
+2015-05-19,Disappointment Cleaver,3,3,1.0
+2015-05-19,Disappointment Cleaver,12,8,0.666666667
+2015-05-18,Kautz Glacier,2,0,0.0
+2015-05-18,Disappointment Cleaver,3,0,0.0
+2015-05-18,Disappointment Cleaver,12,0,0.0
+2015-05-18,Disappointment Cleaver,12,0,0.0
+2015-05-18,Disappointment Cleaver,11,7,0.636363636
+2015-05-17,Disappointment Cleaver,12,6,0.5
+2015-05-17,Disappointment Cleaver,11,5,0.454545455
+2015-05-17,Disappointment Cleaver,12,6,0.5
+2015-05-17,Disappointment Cleaver,4,0,0.0
+2015-05-17,glacier only - no summit attempt,1,0,0.0
+2015-05-17,Disappointment Cleaver,7,5,0.7142857140000001
+2015-05-16,Disappointment Cleaver,12,10,0.833333333
+2015-05-16,Disappointment Cleaver,11,9,0.818181818
+2015-05-16,Disappointment Cleaver,2,0,0.0
+2015-05-15,Fuhrers Finger,2,0,0.0
+2015-05-15,Disappointment Cleaver,12,10,0.833333333
+2015-05-15,Disappointment Cleaver,12,11,0.916666667
+2015-05-15,Disappointment Cleaver,12,7,0.583333333
+2015-05-14,Disappointment Cleaver,2,0,0.0
+2015-05-14,Disappointment Cleaver,12,0,0.0
+2015-05-14,Disappointment Cleaver,12,0,0.0
+2015-05-14,Little Tahoma,1,0,0.0
+2015-05-13,Disappointment Cleaver,12,11,0.916666667
+2015-05-13,Disappointment Cleaver,12,5,0.41666666700000005
+2015-05-13,Disappointment Cleaver,12,6,0.5
+2015-05-13,Ingraham Direct,2,0,0.0
+2015-05-13,Emmons-Winthrop,4,0,0.0
+2015-05-12,Disappointment Cleaver,12,0,0.0
+2015-05-11,Disappointment Cleaver,12,0,0.0
+2015-05-11,Disappointment Cleaver,10,0,0.0
+2015-05-11,Disappointment Cleaver,11,0,0.0
+2015-05-10,Disappointment Cleaver,2,0,0.0
+2015-05-10,Fuhrers Finger,2,0,0.0
+2015-05-09,Disappointment Cleaver,2,2,1.0
+2015-05-09,Disappointment Cleaver,12,8,0.666666667
+2015-05-09,Disappointment Cleaver,5,0,0.0
+2015-05-09,Disappointment Cleaver,2,0,0.0
+2015-05-09,Disappointment Cleaver,1,1,1.0
+2015-05-09,Disappointment Cleaver,2,0,0.0
+2015-05-09,Disappointment Cleaver,2,0,0.0
+2015-05-09,Disappointment Cleaver,3,0,0.0
+2015-05-09,Little Tahoma,2,0,0.0
+2015-05-09,Disappointment Cleaver,4,4,1.0
+2015-05-09,Little Tahoma,2,0,0.0
+2015-05-09,Little Tahoma,1,0,0.0
+2015-05-09,Little Tahoma,4,0,0.0
+2015-05-09,Liberty RIngraham Directge,4,0,0.0
+2015-05-09,Emmons-Winthrop,3,0,0.0
+2015-05-09,Emmons-Winthrop,3,0,0.0
+2015-05-08,Fuhrers Finger,2,0,0.0
+2015-05-08,Fuhrers Finger,3,0,0.0
+2015-05-08,Disappointment Cleaver,3,0,0.0
+2015-05-08,Gibralter Ledges,2,0,0.0
+2015-05-08,Little Tahoma,3,0,0.0
+2015-05-08,Liberty RIngraham Directge,2,0,0.0
+2015-05-08,Emmons-Winthrop,2,0,0.0
+2015-05-07,Fuhrers Finger,2,0,0.0
+2015-05-07,Fuhrers Finger,3,0,0.0
+2015-05-07,Disappointment Cleaver,3,0,0.0
+2015-05-07,Emmons-Winthrop,3,0,0.0
+2015-05-04,Disappointment Cleaver,9,0,0.0
+2015-05-04,Disappointment Cleaver,10,0,0.0
+2015-05-04,Ingraham Direct,5,0,0.0
+2015-05-04,Fuhrers Finger,2,0,0.0
+2015-05-02,Fuhrers Finger,2,0,0.0
+2015-05-02,Fuhrers Finger,2,0,0.0
+2015-05-02,Liberty RIngraham Directge,2,0,0.0
+2015-05-02,Ingraham Direct,3,0,0.0
+2015-05-02,Fuhrers Finger,2,0,0.0
+2015-05-02,Disappointment Cleaver,2,0,0.0
+2015-05-02,Disappointment Cleaver,2,0,0.0
+2015-05-02,glacier only - no summit attempt,2,0,0.0
+2015-05-02,Disappointment Cleaver,3,0,0.0
+2015-05-02,Fuhrers Finger,4,0,0.0
+2015-05-02,Little Tahoma,3,0,0.0
+2015-05-02,Emmons-Winthrop,2,0,0.0
+2015-05-01,Fuhrers Finger,2,0,0.0
+2015-05-01,Ingraham Direct,2,0,0.0
+2015-05-01,Disappointment Cleaver,3,0,0.0
+2015-05-01,Disappointment Cleaver,3,3,1.0
+2015-05-01,Disappointment Cleaver,2,2,1.0
+2015-05-01,Disappointment Cleaver,2,0,0.0
+2015-05-01,Nisqually Glacier,12,0,0.0
+2015-05-01,Fuhrers Finger,5,0,0.0
+2015-05-01,Fuhrers Finger,3,0,0.0
+2015-05-01,Disappointment Cleaver,2,0,0.0
+
+Weatherlog 2015531
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,22,19,1.727272727
+
+Totals
+,Battery Voltage AVG,13.61125
+,Temperature AVG,38.96666667
+,Relative Humidity AVG,57.53291667
+,Wind Speed Daily AVG,26.49375
+,Wind Direction AVG,274.8
+,Solare Radiation AVG,292.17425
+
+Weatherlog 2015530
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,121,46,7.999999999999999
+Emmons-Winthrop,6,2,1.0
+Gibralter Ledges,3,0,0.0
+Ingraham Direct,5,5,2.0
+Kautz Glacier,4,2,1.0
+Liberty RIngraham Directge,2,2,1.0
+Little Tahoma,11,0,0.0
+glacier only - no summit attempt,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.5775
+,Temperature AVG,40.17125
+,Relative Humidity AVG,36.86833333
+,Wind Speed Daily AVG,9.813375
+,Wind Direction AVG,247.1904167
+,Solare Radiation AVG,352.442875
+
+Weatherlog 2015529
+Route,Attempted,Succeeded,Success Percentage
+Curtis RIngraham Directge,2,0,0.0
+Disappointment Cleaver,63,40,6.416666665999999
+Fuhrers Finger,2,2,1.0
+Kautz Glacier,2,2,1.0
+Liberty RIngraham Directge,4,0,0.0
+Little Tahoma,2,2,1.0
+Ptarmigan RIngraham Directge,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.59458333
+,Temperature AVG,36.655
+,Relative Humidity AVG,71.65125
+,Wind Speed Daily AVG,24.68633333
+,Wind Direction AVG,274.7666667
+,Solare Radiation AVG,245.2959167
+
+Weatherlog 2015528
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,20,18,2.833333333
+Emmons-Winthrop,3,0,0.0
+Fuhrers Finger,3,0,0.0
+Kautz Glacier,1,0,0.0
+Little Tahoma,3,3,1.0
+
+Totals
+,Battery Voltage AVG,13.62666667
+,Temperature AVG,37.57708333
+,Relative Humidity AVG,67.60041667
+,Wind Speed Daily AVG,7.06175
+,Wind Direction AVG,125.38779170000001
+,Solare Radiation AVG,337.99041669999997
+
+Weatherlog 2015527
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,25,14,1.9545454549999999
+Emmons-Winthrop,4,3,0.75
+
+Totals
+,Battery Voltage AVG,13.5475
+,Temperature AVG,34.4575
+,Relative Humidity AVG,73.66541667
+,Wind Speed Daily AVG,4.211208333
+,Wind Direction AVG,194.5708333
+,Solare Radiation AVG,351.78479169999997
+
+Weatherlog 2015526
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,16,10,0.833333333
+Emmons-Winthrop,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.5725
+,Temperature AVG,31.53666667
+,Relative Humidity AVG,72.90083333
+,Wind Speed Daily AVG,3.442375
+,Wind Direction AVG,229.7284167
+,Solare Radiation AVG,187.92495830000001
+
+Weatherlog 2015525
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,35,25,3.275
+Emmons-Winthrop,2,2,1.0
+Kautz Glacier,4,4,1.0
+Liberty RIngraham Directge,5,0,0.0
+
+Totals
+,Battery Voltage AVG,13.53708333
+,Temperature AVG,32.7775
+,Relative Humidity AVG,49.44625
+,Wind Speed Daily AVG,2.176375
+,Wind Direction AVG,217.676125
+,Solare Radiation AVG,30.99041667
+
+Weatherlog 2015524
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,40,18,2.333333333
+Kautz Glacier,4,4,1.0
+Little Tahoma,13,0,0.0
+
+Totals
+,Battery Voltage AVG,13.56833333
+,Temperature AVG,35.50541667
+,Relative Humidity AVG,55.14625
+,Wind Speed Daily AVG,4.602791667
+,Wind Direction AVG,163.7657083
+,Solare Radiation AVG,40.73991667
+
+Weatherlog 2015523
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,61,42,8.583333334
+Emmons-Winthrop,8,0,0.0
+Fuhrers Finger,2,0,0.0
+Liberty RIngraham Directge,4,0,0.0
+Tahoma Glacier,4,0,0.0
+glacier only - no summit attempt,6,0,0.0
+
+Totals
+,Battery Voltage AVG,13.52083333
+,Temperature AVG,35.88083333
+,Relative Humidity AVG,74.25708333
+,Wind Speed Daily AVG,7.274916667
+,Wind Direction AVG,103.8366667
+,Solare Radiation AVG,25.60783333
+
+Weatherlog 2015522
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,40,12,2.833333333
+Emmons-Winthrop,6,0,0.0
+Fuhrers Finger,4,0,0.0
+Kautz Glacier,3,0,0.0
+Liberty RIngraham Directge,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.58791667
+,Temperature AVG,33.09125
+,Relative Humidity AVG,83.53666667
+,Wind Speed Daily AVG,6.95925
+,Wind Direction AVG,61.31625
+,Solare Radiation AVG,0.212708333
+
+Weatherlog 2015521
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,0,0.0
+Kautz Cleaver,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.58458333
+,Temperature AVG,33.50083333
+,Relative Humidity AVG,79.21708333
+,Wind Speed Daily AVG,8.0455
+,Wind Direction AVG,68.29604167
+,Solare Radiation AVG,14.27883333
+
+Weatherlog 2015520
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,18,7,0.583333333
+
+Totals
+,Battery Voltage AVG,13.61333333
+,Temperature AVG,32.22541667
+,Relative Humidity AVG,78.09416667
+,Wind Speed Daily AVG,16.36125
+,Wind Direction AVG,69.58875
+,Solare Radiation AVG,27.30241667
+
+Weatherlog 2015519
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,21,11,1.6666666669999999
+
+Totals
+,Battery Voltage AVG,13.59416667
+,Temperature AVG,31.2
+,Relative Humidity AVG,75.00458333
+,Wind Speed Daily AVG,11.31595833
+,Wind Direction AVG,83.57208333
+,Solare Radiation AVG,0.129958333
+
+Weatherlog 2015518
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,38,7,0.636363636
+Kautz Glacier,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.56208333
+,Temperature AVG,29.47333333
+,Relative Humidity AVG,91.06
+,Wind Speed Daily AVG,6.361583333
+,Wind Direction AVG,79.80166667
+,Solare Radiation AVG,21.76520833
+
+Weatherlog 2015517
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,46,22,2.1688311689999997
+glacier only - no summit attempt,1,0,0.0
+
+Totals
+,Battery Voltage AVG,13.60166667
+,Temperature AVG,28.76875
+,Relative Humidity AVG,86.63041667
+,Wind Speed Daily AVG,5.22225
+,Wind Direction AVG,193.9629167
+,Solare Radiation AVG,4.549958333
+
+Weatherlog 2015516
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,25,19,1.651515151
+
+Totals
+,Battery Voltage AVG,13.56666667
+,Temperature AVG,31.28083333
+,Relative Humidity AVG,55.86166667
+,Wind Speed Daily AVG,3.632791667
+,Wind Direction AVG,148.240375
+,Solare Radiation AVG,28.800125
+
+Weatherlog 2015515
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,36,28,2.333333333
+Fuhrers Finger,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.55
+,Temperature AVG,31.08541667
+,Relative Humidity AVG,45.71958333
+,Wind Speed Daily AVG,1.597666667
+,Wind Direction AVG,267.87125
+,Solare Radiation AVG,42.54783333
+
+Weatherlog 2015514
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,26,0,0.0
+Little Tahoma,1,0,0.0
+
+Totals
+,Battery Voltage AVG,13.48416667
+,Temperature AVG,26.23875
+,Relative Humidity AVG,83.00083333
+,Wind Speed Daily AVG,2.066375
+,Wind Direction AVG,154.61875
+,Solare Radiation AVG,10.03241667
+
+Weatherlog 2015513
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,36,22,1.833333334
+Emmons-Winthrop,4,0,0.0
+Ingraham Direct,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.56625
+,Temperature AVG,25.05958333
+,Relative Humidity AVG,97.11666667
+,Wind Speed Daily AVG,4.398875
+,Wind Direction AVG,98.80383333
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015512
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,0,0.0
+
+Totals
+,Battery Voltage AVG,13.61333333
+,Temperature AVG,24.37416667
+,Relative Humidity AVG,99.37083333
+,Wind Speed Daily AVG,12.299000000000001
+,Wind Direction AVG,79.61875
+,Solare Radiation AVG,0.0
+
+Weatherlog 2015511
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,33,0,0.0
+
+Totals
+,Battery Voltage AVG,13.68125
+,Temperature AVG,26.6925
+,Relative Humidity AVG,77.28375
+,Wind Speed Daily AVG,14.55358333
+,Wind Direction AVG,118.58666670000001
+,Solare Radiation AVG,5.400625
+
+Weatherlog 2015510
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,2,0,0.0
+Fuhrers Finger,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.57625
+,Temperature AVG,32.15916667
+,Relative Humidity AVG,63.095
+,Wind Speed Daily AVG,3.512
+,Wind Direction AVG,201.7679167
+,Solare Radiation AVG,23.93575
+
+Weatherlog 201559
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,33,15,3.666666667
+Emmons-Winthrop,6,0,0.0
+Liberty RIngraham Directge,4,0,0.0
+Little Tahoma,9,0,0.0
+
+Totals
+,Battery Voltage AVG,13.55
+,Temperature AVG,31.01416667
+,Relative Humidity AVG,72.705
+,Wind Speed Daily AVG,3.497208333
+,Wind Direction AVG,212.65795830000002
+,Solare Radiation AVG,37.42945833
+
+Weatherlog 201558
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,3,0,0.0
+Emmons-Winthrop,2,0,0.0
+Fuhrers Finger,5,0,0.0
+Gibralter Ledges,2,0,0.0
+Liberty RIngraham Directge,2,0,0.0
+Little Tahoma,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.64916667
+,Temperature AVG,28.24208333
+,Relative Humidity AVG,52.79375
+,Wind Speed Daily AVG,6.912000000000001
+,Wind Direction AVG,122.80741670000002
+,Solare Radiation AVG,35.50208333
+
+Weatherlog 201557
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,3,0,0.0
+Emmons-Winthrop,3,0,0.0
+Fuhrers Finger,5,0,0.0
+
+Totals
+,Battery Voltage AVG,13.66833333
+,Temperature AVG,25.24708333
+,Relative Humidity AVG,19.20166667
+,Wind Speed Daily AVG,10.208875
+,Wind Direction AVG,150.9358333
+,Solare Radiation AVG,16.21041667
+
+Weatherlog 201556
+Totals
+,Battery Voltage AVG,13.64333333
+,Temperature AVG,14.94666667
+,Relative Humidity AVG,61.31625
+,Wind Speed Daily AVG,11.02745833
+,Wind Direction AVG,152.993875
+,Solare Radiation AVG,0.0
+
+Weatherlog 201555
+Totals
+,Battery Voltage AVG,13.74958333
+,Temperature AVG,11.51416667
+,Relative Humidity AVG,84.63375
+,Wind Speed Daily AVG,27.31258333
+,Wind Direction AVG,256.1125
+,Solare Radiation AVG,0.0
+
+Weatherlog 201554
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,19,0,0.0
+Fuhrers Finger,2,0,0.0
+Ingraham Direct,5,0,0.0
+
+Totals
+,Battery Voltage AVG,13.62666667
+,Temperature AVG,24.45458333
+,Relative Humidity AVG,47.96666667
+,Wind Speed Daily AVG,42.57208333
+,Wind Direction AVG,272.9375
+,Solare Radiation AVG,0.0
+
+Weatherlog 201553
+Totals
+,Battery Voltage AVG,13.61833333
+,Temperature AVG,26.31958333
+,Relative Humidity AVG,51.455
+,Wind Speed Daily AVG,15.22170833
+,Wind Direction AVG,280.7125
+,Solare Radiation AVG,0.0
+
+Weatherlog 201552
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,7,0,0.0
+Emmons-Winthrop,2,0,0.0
+Fuhrers Finger,10,0,0.0
+Ingraham Direct,3,0,0.0
+Liberty RIngraham Directge,2,0,0.0
+Little Tahoma,3,0,0.0
+glacier only - no summit attempt,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.56041667
+,Temperature AVG,30.66458333
+,Relative Humidity AVG,30.90483333
+,Wind Speed Daily AVG,6.0655
+,Wind Direction AVG,141.95708330000002
+,Solare Radiation AVG,44.96
+
+Weatherlog 201551
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,12,5,2.0
+Fuhrers Finger,10,0,0.0
+Ingraham Direct,2,0,0.0
+Nisqually Glacier,12,0,0.0
+
+Totals
+,Battery Voltage AVG,13.53375
+,Temperature AVG,30.19708333
+,Relative Humidity AVG,33.99591667
+,Wind Speed Daily AVG,31.02083333
+,Wind Direction AVG,280.3833333
+,Solare Radiation AVG,0.0

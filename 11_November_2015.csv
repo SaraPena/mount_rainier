@@ -1,0 +1,285 @@
+Attempts
+Date,Attempted
+2015-11-21,3
+2015-11-27,2
+
+climbing routes
+Date,Route,Attempted,Succeeded,Success Percentage
+2015-11-27,Disappointment Cleaver,2,0,0.0
+2015-11-21,Disappointment Cleaver,3,0,0.0
+
+Weatherlog 20151130
+Totals
+,Battery Voltage AVG,13.57125
+,Temperature AVG,21.93083333
+,Relative Humidity AVG,49.67208333
+,Wind Speed Daily AVG,29.427375
+,Wind Direction AVG,283.1833333
+,Solare Radiation AVG,69.43225
+
+Weatherlog 20151129
+Totals
+,Battery Voltage AVG,13.61875
+,Temperature AVG,27.41666667
+,Relative Humidity AVG,11.83083333
+,Wind Speed Daily AVG,9.638625
+,Wind Direction AVG,93.96541667
+,Solare Radiation AVG,87.12375
+
+Weatherlog 20151128
+Totals
+,Battery Voltage AVG,13.63
+,Temperature AVG,25.92333333
+,Relative Humidity AVG,15.81616667
+,Wind Speed Daily AVG,21.82916667
+,Wind Direction AVG,69.22
+,Solare Radiation AVG,87.57958333
+
+Weatherlog 20151127
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,2,0,0.0
+
+Totals
+,Battery Voltage AVG,13.64375
+,Temperature AVG,26.32166667
+,Relative Humidity AVG,19.715
+,Wind Speed Daily AVG,27.83958333
+,Wind Direction AVG,68.00416667
+,Solare Radiation AVG,88.49625
+
+Weatherlog 20151126
+Totals
+,Battery Voltage AVG,13.67958333
+,Temperature AVG,20.01875
+,Relative Humidity AVG,21.63458333
+,Wind Speed Daily AVG,9.509916667
+,Wind Direction AVG,62.50791667
+,Solare Radiation AVG,89.04416667
+
+Weatherlog 20151125
+Totals
+,Battery Voltage AVG,13.70791667
+,Temperature AVG,15.36583333
+,Relative Humidity AVG,24.64333333
+,Wind Speed Daily AVG,31.87291667
+,Wind Direction AVG,65.83333333
+,Solare Radiation AVG,93.37791667
+
+Weatherlog 20151124
+Totals
+,Battery Voltage AVG,13.07875
+,Temperature AVG,12.95
+,Relative Humidity AVG,85.68875
+,Wind Speed Daily AVG,9.111416667
+,Wind Direction AVG,114.56808329999998
+,Solare Radiation AVG,34.23675
+
+Weatherlog 20151123
+Totals
+,Battery Voltage AVG,13.64166667
+,Temperature AVG,22.08666667
+,Relative Humidity AVG,81.27291667
+,Wind Speed Daily AVG,19.47166667
+,Wind Direction AVG,255.625
+,Solare Radiation AVG,72.58920833
+
+Weatherlog 20151122
+Totals
+,Battery Voltage AVG,13.705
+,Temperature AVG,30.85166667
+,Relative Humidity AVG,47.77083333
+,Wind Speed Daily AVG,5.26825
+,Wind Direction AVG,254.4691667
+,Solare Radiation AVG,78.38245833
+
+Weatherlog 20151121
+Route,Attempted,Succeeded,Success Percentage
+Disappointment Cleaver,3,0,0.0
+
+Totals
+,Battery Voltage AVG,13.74958333
+,Temperature AVG,31.3
+,Relative Humidity AVG,21.69070833
+,Wind Speed Daily AVG,2.245833333
+,Wind Direction AVG,117.54966670000002
+,Solare Radiation AVG,93.66041667
+
+Weatherlog 20151120
+Totals
+,Battery Voltage AVG,13.73208333
+,Temperature AVG,23.38083333
+,Relative Humidity AVG,20.10375
+,Wind Speed Daily AVG,6.951833333
+,Wind Direction AVG,236.5645833
+,Solare Radiation AVG,84.54604167
+
+Weatherlog 20151119
+Totals
+,Battery Voltage AVG,13.63583333
+,Temperature AVG,18.32916667
+,Relative Humidity AVG,88.3275
+,Wind Speed Daily AVG,12.02483333
+,Wind Direction AVG,112.46958329999998
+,Solare Radiation AVG,132.6708333
+
+Weatherlog 20151118
+Totals
+,Battery Voltage AVG,13.33291667
+,Temperature AVG,10.52570833
+,Relative Humidity AVG,94.1
+,Wind Speed Daily AVG,14.081625
+,Wind Direction AVG,113.43625
+,Solare Radiation AVG,73.82541667
+
+Weatherlog 20151117
+Totals
+,Battery Voltage AVG,12.86291667
+,Temperature AVG,20.03425
+,Relative Humidity AVG,97.9625
+,Wind Speed Daily AVG,46.1225
+,Wind Direction AVG,207.1416667
+,Solare Radiation AVG,11.11929167
+
+Weatherlog 20151116
+Totals
+,Battery Voltage AVG,12.97125
+,Temperature AVG,11.14329167
+,Relative Humidity AVG,94.62916667
+,Wind Speed Daily AVG,18.75929167
+,Wind Direction AVG,163.77083330000002
+,Solare Radiation AVG,41.20625
+
+Weatherlog 20151115
+Totals
+,Battery Voltage AVG,12.89208333
+,Temperature AVG,13.47804167
+,Relative Humidity AVG,95.9875
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,163.9458333
+,Solare Radiation AVG,18.163625
+
+Weatherlog 20151114
+Totals
+,Battery Voltage AVG,13.02041667
+,Temperature AVG,23.81833333
+,Relative Humidity AVG,99.325
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,199.8583333
+,Solare Radiation AVG,14.26454167
+
+Weatherlog 20151113
+Totals
+,Battery Voltage AVG,13.13166667
+,Temperature AVG,24.395
+,Relative Humidity AVG,99.69166667
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,247.7416667
+,Solare Radiation AVG,13.878
+
+Weatherlog 20151112
+Totals
+,Battery Voltage AVG,13.63708333
+,Temperature AVG,18.087875
+,Relative Humidity AVG,90.3775
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,212.1129167
+,Solare Radiation AVG,57.3915
+
+Weatherlog 20151111
+Totals
+,Battery Voltage AVG,13.675
+,Temperature AVG,12.19504167
+,Relative Humidity AVG,76.03791667
+,Wind Speed Daily AVG,9.628708332999999
+,Wind Direction AVG,175.5155833
+,Solare Radiation AVG,108.53245829999999
+
+Weatherlog 20151110
+Totals
+,Battery Voltage AVG,13.66958333
+,Temperature AVG,18.06416667
+,Relative Humidity AVG,63.9475
+,Wind Speed Daily AVG,5.673583333
+,Wind Direction AVG,229.1131667
+,Solare Radiation AVG,103.7850833
+
+Weatherlog 2015119
+Totals
+,Battery Voltage AVG,13.54333333
+,Temperature AVG,13.63875
+,Relative Humidity AVG,89.87583333
+,Wind Speed Daily AVG,3.050541667
+,Wind Direction AVG,205.9483333
+,Solare Radiation AVG,113.06083329999998
+
+Weatherlog 2015118
+Totals
+,Battery Voltage AVG,13.225
+,Temperature AVG,15.25708333
+,Relative Humidity AVG,95.95
+,Wind Speed Daily AVG,15.00666667
+,Wind Direction AVG,263.65
+,Solare Radiation AVG,57.64583333
+
+Weatherlog 2015117
+Totals
+,Battery Voltage AVG,13.31291667
+,Temperature AVG,24.18416667
+,Relative Humidity AVG,98.45833333
+,Wind Speed Daily AVG,22.99625
+,Wind Direction AVG,252.18333330000002
+,Solare Radiation AVG,40.35625
+
+Weatherlog 2015116
+Totals
+,Battery Voltage AVG,13.65458333
+,Temperature AVG,28.765
+,Relative Humidity AVG,85.59916667
+,Wind Speed Daily AVG,5.328375
+,Wind Direction AVG,145.49083330000002
+,Solare Radiation AVG,122.95629170000001
+
+Weatherlog 2015115
+Totals
+,Battery Voltage AVG,13.74541667
+,Temperature AVG,17.62875
+,Relative Humidity AVG,90.835
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,83.7825
+,Solare Radiation AVG,118.9900417
+
+Weatherlog 2015114
+Totals
+,Battery Voltage AVG,13.61833333
+,Temperature AVG,17.14291667
+,Relative Humidity AVG,96.3875
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,97.6925
+,Solare Radiation AVG,122.21991670000001
+
+Weatherlog 2015113
+Totals
+,Battery Voltage AVG,13.73958333
+,Temperature AVG,12.89220833
+,Relative Humidity AVG,95.53333333
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,57.18291667
+,Solare Radiation AVG,152.7790417
+
+Weatherlog 2015112
+Totals
+,Battery Voltage AVG,13.6625
+,Temperature AVG,16.81583333
+,Relative Humidity AVG,96.09166667
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,155.8154167
+,Solare Radiation AVG,129.8446667
+
+Weatherlog 2015111
+Totals
+,Battery Voltage AVG,13.20304348
+,Temperature AVG,16.80391304
+,Relative Humidity AVG,97.00869565
+,Wind Speed Daily AVG,0.0
+,Wind Direction AVG,222.2608696
+,Solare Radiation AVG,42.30378261
